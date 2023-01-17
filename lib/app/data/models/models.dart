@@ -1,0 +1,1 @@
+export 'package:prueba_tecnica_dashfleet/app/data/models/user.dart';
